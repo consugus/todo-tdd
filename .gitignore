@@ -1,0 +1,3 @@
+# something to ignore from tracking
+vscode/
+node_modules/
